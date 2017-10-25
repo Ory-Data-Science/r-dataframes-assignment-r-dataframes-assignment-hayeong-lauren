@@ -1,0 +1,2 @@
+it is helpful to use the R script to type the code in to help find errors 
+also you can break it into smaller sections and use pipes
